@@ -1,2 +1,14 @@
 # examples
 TonesEDM Hypercore songs - EDM Genre Produced Without a DAW. 
+
+This is a directory with every hypercore song released under tonesedm name;
+These are example hypercore music made during tonesonic LLC's researches on how to produce EDM without the typical DAW softwares. 
+After we discover new possibilities for hypercore production, we will release a song under Tonesedm name. 
+
+Every song in this directory is copyrighted and is a property of Tonesonic LLC. 
+
+Music will start to come out and will be posted here for free download at the launch of our operations. 
+Should be released to Spotify and all the major music streaming platforms by our private net-label (Tonesonic Records). 
+Follow us on YouTube for audio visuals and production spotlights of these audio works. 
+
+TPL 1.0 // https://github.com/Tonesonic/TPL 
